@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @red1oo
 - 👀 I’m interested in Python, JS
 - 🌱 I’m currently learning Django
-- 📫 How to reach me https://tg.me/red1oo
+- 📫 How to reach me https://tg.me/r3d1oo
